@@ -1,0 +1,300 @@
+Dimension,Response
+Yes,"Yes, I do."
+Yes,"Yes, I have."
+Yes,"Yes, I am."
+Yes,"Yeap, I am."
+Yes,"Yeap, I have."
+Yes,"Yep, I have."
+Yes,I have.
+Yes,I guess so.
+Yes,I think so.
+Yes,I believe so.
+Yes,All the time.
+Yes,Always.
+Yes,My friends.
+Yes,My family.
+Yes,My partner.
+Yes,My wife.
+Yes,My girlfriend.
+Yes,My boyfriend.
+Yes,My husband.
+Yes,My pet.
+Yes,My cat.
+Yes,My relatives.
+Yes,My colleagues.
+Yes,My therapist.
+Yes,"Yep, I do."
+Yes,Yep.
+Yes,Sure.
+Yes,Yes.
+Yes,"Um, fine."
+Yes,"Um, Sure."
+Yes,"Um, yes."
+Yes,"Umm, yup."
+Yes,"Umm, ok."
+Yes,"Umm, okay."
+Yes,"Ugh, ok."
+Yes,"Ugh, okay."
+Yes,"Uh, yes."
+Yes,"Uh, yep."
+Yes,"Uh, yup."
+Yes,"Uh, yea."
+Yes,"Uh, sure."
+Yes,"Hmm, ok."
+Yes,Why not.
+Yes,"Hmm, okay."
+Yes,That happens a lot.
+Yes,Usually.
+Yes,I usually do so.
+Yes,I am better than most people.
+Yes,"Yup, I do."
+Yes,Yup.
+Yes,Of course.
+Yes,"Yeah, I do."
+Yes,"Yeah, I have."
+Yes,"Yeah, I am."
+Yes,"Mhm, I do."
+Yes,"Mhm, I have."
+Yes,"Mhm, I am."
+Yes,For sure.
+Yes,Absolutely.
+Yes,Indeed.
+Yes,Totally.
+Yes,Definitely.
+Yes,"Of course, I do."
+Yes,"Of course, I have."
+Yes,You bet.
+Yes,For real.
+Yes,I’d say so.
+Yes,Most likely.
+Yes,Pretty much.
+Yes,Why not?
+Yes,I suppose so.
+Yes,100%.
+Yes,Sure thing.
+Yes,You got it.
+Yes,Exactly.
+Yes,Sounds right.
+Yes,That’s correct.
+Yes,True.
+Yes,Affirmative.
+Yes,Certainly.
+Yes,By all means.
+Yes,That works.
+Yes,That’s a yes from me.
+Yes,Can’t argue with that.
+Yes,Right on.
+Yes,Count me in.
+Yes,That’s the case.
+Yes,I wouldn’t say no.
+No,No.
+No,I guess not.
+No,These days I am not.
+No,Not recently.
+No,Really bad.
+No,Not good at all.
+No,I don't want to tell you.
+No,Not really.
+No,I don't.
+No,I do not.
+No,Always not.
+No,"I don't think so, maybe."
+No,I don't think so.
+No,Nope.
+No,"No, I don't."
+No,"No, I haven't."
+No,I am not.
+No,Only once in a while.
+No,Never.
+No,Never ever.
+No,I never do that.
+No,"No, I am not."
+No,"No, I never do that."
+No,"Nope, I never."
+No,Definitely no.
+No,"Uh, I don't know."
+No,Of course not.
+No,You tell me.
+No,"Uh, you tell me."
+No,I don't know.
+No,Not at all.
+No,No way.
+No,Haven’t done that.
+No,Can’t recall doing that.
+No,Not in a long time.
+No,I highly doubt it.
+No,Can’t say that I have.
+No,Not even close.
+No,That’s not me.
+No,I don’t think so.
+No,Not once.
+No,Far from it.
+No,"I wish, but no."
+No,"Unfortunately, no."
+No,No shot.
+No,I wouldn’t say so.
+No,Doesn’t seem like it.
+No,Not happening.
+No,Not at this moment.
+No,"Not really, no."
+No,That’s a no from me.
+No,Can’t say yes to that.
+No,I wouldn’t count on it.
+No,No chance.
+No,Not gonna happen.
+No,That’s a no from me.
+No,Not my thing.
+No,Not exactly.
+No,Doesn’t look like it.
+No,I’d rather not.
+No,Not feeling it.
+No,Highly unlikely.
+No,I wouldn’t bet on it.
+No,That’s not happening.
+No,Zero chance.
+Stop,I don't want to talk to you.
+Stop,Stop.
+Stop,Shut up.
+Stop,Go fuck yourself.
+Stop,Talk to me later.
+Stop,I am really busy now.
+Stop,I don't want to talk now.
+Stop,Let's do this later.
+Stop,Not now.
+Stop,Stop asking me questions.
+Stop,Let's resume latter.
+Stop,Please stop.
+Stop,Don't talk to me.
+Stop,Stop asking.
+Stop,I don't want to answer.
+Stop,I'm not in the mood.
+Stop,I'm not in the mood to answer your question.
+Stop,Leave me alone.
+Stop,Get off my back.
+Stop,Don't bother me.
+Stop,Go away.
+Stop,Fuck off.
+Stop,I am done with the session today.
+Stop,Stop talking to me now.
+Stop,Enough.
+Stop,That’s it.
+Stop,I’m over this.
+Stop,I need a break.
+Stop,Let’s talk some other time.
+Stop,I don’t feel like talking.
+Stop,This conversation is over.
+Stop,That’s enough questions.
+Stop,Just stop.
+Stop,I'm not dealing with this right now.
+Stop,I don't want to talk to you at this moment.
+Stop,I need some space right now.
+Stop,Leave me in quiet.
+Stop,Can you just stop?
+Stop,I’ve had enough.
+Stop,Let’s not continue this.
+Stop,I need some quiet.
+Stop,This is getting annoying.
+Stop,I don’t want to deal with this right now.
+Question,Pardon?
+Question,What does that mean?
+Question,What is that?
+Question,What's going on?
+Question,Can you repeat the question?
+Question,Say that again?
+Question,Can you say it again?
+Question,What?
+Question,What do you mean?
+Question,How can I know?
+Question,You tell me.
+Question,What do you think?
+Question,I don't know.
+Question,I don't know what that means.
+Question,Who knows?
+Question,You never know.
+Question,Huh?
+Question,Come again?
+Question,Could you clarify?
+Question,I'm not sure.
+Question,Can you explain that?
+Question,What are you talking about?
+Question,What do you mean by that?
+Question,Not sure I understand.
+Question,What are you asking?
+Question,Can you be more specific?
+Question,What exactly do you mean?
+Question,I'm confused.
+Question,Can you break that down?
+Question,"Wait, what?"
+Question,What are you referring to?
+Question,How should I know?
+Question,That’s unclear.
+Question,Can you elaborate?
+Question,What makes you ask that?
+Question,I have no idea.
+Question,What’s your point?
+Question,Where are you going with this?
+Question,Why do you ask?
+Question,Is that a real question?
+Question,What’s that supposed to mean?
+Question,I’m not following.
+Question,"Wait, can you clarify?"
+Question,I don’t get it.
+Question,What’s your angle?
+Question,Could you say that differently?
+Question,Can you rephrase that?
+Question,I'm not following you.
+Question,What are you trying to say?
+Question,That doesn’t make sense to me.
+Question,Could you give me more context?
+Question,Do you mind explaining that again?
+Question,I don’t quite understand.
+Question,Can you make that clearer?
+Question,"Wait, do you mean this or something else?"
+Question,I need more details on that.
+Maybe,Maybe.
+Maybe,It's average.
+Maybe,Sometimes.
+Maybe,From time to time.
+Maybe,Ocassionally.
+Maybe,Some time in a week.
+Maybe,Average.
+Maybe,As usual.
+Maybe,Just like before.
+Maybe,As the old days
+Maybe,I'm not sure.
+Maybe,Probably.
+Maybe,Possibly.
+Maybe,Could be.
+Maybe,Depends.
+Maybe,It varies.
+Maybe,Not always.
+Maybe,Kind of.
+Maybe,Sort of.
+Maybe,Now and then.
+Maybe,Once in a while.
+Maybe,Every so often.
+Maybe,On occasion.
+Maybe,At times.
+Maybe,Not sure.
+Maybe,Could go either way.
+Maybe,Neither here nor there.
+Maybe,Not really sure.
+Maybe,Hard to say.
+Maybe,It depends on the situation.
+Maybe,That’s up for debate.
+Maybe,It’s uncertain.
+Maybe,Can’t say for sure.
+Maybe,More or less.
+Maybe,I suppose so.
+Maybe,Not necessarily.
+Maybe,Not too sure.
+Maybe,It's a bit of both.
+Maybe,It's possible.
+Maybe,I guess.
+Maybe,"I think so, but not sure."
+Maybe,It could be the case.
+Maybe,It’s in between.
+Maybe,Somewhat.
+Maybe,That depends.
+Maybe,A little bit.
+Maybe,That's a mayb to me.
